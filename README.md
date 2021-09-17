@@ -1,1 +1,2 @@
-# Predicting-the-lifetime-of-the-robot-system
+# Predicting the Lifetime of the Robot System
+#The purpose of this project is to predict the lifetime of the robot system, given the observed data of installed sensors that measure the lifetime of a critical part. The dataset we are using has 5670 observations, each observation has 9 features (sensors) that will all be contributing to our prediction. The corresponding lifetime has also been recorded in the dataset. After trying linear regression, logistic regression and decision trees, we finally were able to find the best predicting model for our dataset to predict the lifetime of the robot system.
